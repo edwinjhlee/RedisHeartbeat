@@ -8,7 +8,13 @@
 
 命名方式:
 
+```log
+<AppName>.registration => []
 <AppName>.<StartingTimeStamp>.<Category>.<Entry> = string or json
+<AppName>.<StartingTimeStamp>.<Category>.<Entry> = string or json
+```
+
+
 
 两种模式:
 
